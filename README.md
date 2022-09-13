@@ -29,14 +29,14 @@ Select the ones you think are important.
 * Ability to filter episodes where `imdbRating` is greater than 8.8 for a season or for all seasons.
 * Add Users' permissions and authentication
 * Add logging
-* Update start.sh script to check if db is upimage.png
+* Update start.sh script to check if db is up
 * Deploy your project to heroku
 
 Nice to have:
-* Download episods data using celery
+* Download episodes data using celery
 * Add caching
 * Add pagination for episodes and comments
 * Create custom manage.py command to retrieve episodes from omdb
 * Write some tests
 * Deploy your project to Amazon VPS instead of heroku
-* Add ci/ci to your project
+* Add ci/cd to your project
